@@ -1,0 +1,9 @@
+Anish,Football
+Satya,Badminton
+Binit,Volleyball
+Prashant,Cricket
+Nitesh,Singing
+Faruk,Basketball
+Rishika,Art
+Priyanka,Table_Tennis
+Nirajan,Pool

@@ -1,0 +1,10 @@
+1,Anish,student
+2,Satya,student
+3,Binit,student
+4,Prashant,student
+5,Nitesh,student
+6,Faruk,student
+7,Rishika,student
+8,Priyanka,student
+9,Nirajan,student
+10,Admin,admin
